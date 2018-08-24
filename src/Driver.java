@@ -1,5 +1,4 @@
 import java.util.ArrayList;
-import static java.lang.System.out;
 public class Driver {
     public static void main(String[] args) {
         Node a=new Node("Hi", new ArrayList<>());
